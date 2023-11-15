@@ -1,0 +1,17 @@
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\bin\Debug\net6.0-windows\Weather app.exe
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\bin\Debug\net6.0-windows\Weather app.deps.json
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\bin\Debug\net6.0-windows\Weather app.runtimeconfig.json
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\bin\Debug\net6.0-windows\Weather app.dll
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\bin\Debug\net6.0-windows\Weather app.pdb
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\Weather_app.Form1.resources
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\Weather app.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\Weather app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\Weather app.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\Weather app.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\Weather app.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\Weather app.dll
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\refint\Weather app.dll
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\Weather app.pdb
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\Weather app.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\ref\Weather app.dll
+C:\Users\ibrah\Desktop\C#\Weather app\Weather app\obj\Debug\net6.0-windows\Weather_app.Properties.Resources.resources
